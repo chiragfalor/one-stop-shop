@@ -159,7 +159,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# specific ignores
+# output ignores
 Utils/QRCodes/*
 GPT/dalle_images/*
+Data/sample_data/*
+
+# private ignores
 GPT/openai_api_key.txt
