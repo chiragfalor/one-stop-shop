@@ -1,0 +1,2 @@
+# count number of words
+texcount -inc -total main.tex
