@@ -163,6 +163,10 @@ cython_debug/
 Utils/QRCodes/*
 GPT/dalle_images/*
 Data/sample_data/*
+*.pkl
+*.parquet
 
 # private ignores
 GPT/openai_api_key.txt
+
+# additional ignores
